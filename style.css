@@ -66,7 +66,7 @@ body {
 }
 
 .resume .resume_item {
-  padding: 25px 0;
+  padding: 20px 0;
   border-bottom: 2px solid #b1eaff;
 }
 
@@ -99,7 +99,7 @@ body {
 .resume .icon i,
 .resume .resume_right .resume_hobby ul li i {
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -208,8 +208,8 @@ body {
 }
 
 .resume .resume_right .resume_hobby ul li {
-  width: 80px;
-  height: 80px;
+  width: 50px;
+  height: 50px;
   border: 2px solid #0bb5f4;
   border-radius: 50%;
   position: relative;
@@ -217,13 +217,13 @@ body {
 }
 
 .resume .resume_right .resume_hobby ul li i {
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .resume .resume_right .resume_hobby ul li:before {
   content: "";
   position: absolute;
-  top: 40px;
+  top: 20px;
   right: -52px;
   width: 50px;
   height: 2px;
